@@ -1,0 +1,4 @@
+from AtividadeAndre.models.alunoModel import AlunoModel
+from AtividadeAndre.models.tarefaModel import TarefaModel
+from AtividadeAndre.models.disciplinaModel import DisciplinaModel
+from AtividadeAndre.models.disciplinaTarefaModel import DisciplinaTarefaModel
